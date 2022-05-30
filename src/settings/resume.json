@@ -1,0 +1,55 @@
+{
+    "basics": {
+        "name": "Ashok Reddy",
+        "label": "Web Developer",
+        "email": "palannagari.ashok@gmail.com",
+        "phone": "(XXX) XXX-XXXX",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Designer",
+        "job2": "Developer",
+        "description": "Hello! I'm Mark! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in Angeles, India.",
+        "keywords": "personal,website,portfolio,template,kit,mark,tan,taniyow,webdev,web,developer,angeles,philippines,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Hyderbad",
+            "country": "India",
+            "countryCode": "IN",
+            "region": "Hyderbad"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "palannagari.ashok@gmail.com",
+                "url": "mailto:palannagari.ashok@gmail.com",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "ashok-reddy-9b2825185",
+                "url": "https://www.linkedin.com/in/ashok-reddy-9b2825185/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "PalannagariAshok",
+                "url": "https://github.com/PalannagariAshok",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "palannagari.ashok",
+                "url": "https://gitlab.com/palannagari.ashok",
+                "x_icon": "fab fa-gitlab"
+            }
+            
+            
+        ]
+    }
+  
+  
+    
+}
