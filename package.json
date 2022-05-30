@@ -1,7 +1,7 @@
 {
   "name": "react-portfolio",
   "version": "0.1.0",
-  "homepage": "https://PalannagariAshok.github.io/react-portfolio-main",
+  "homepage": "https://palannagariashok.github.io/react-portfolio-main",
   "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
   "repository": "",
   "author": "Ashok Reddy <palannagari.ashok@gmail.com>",
@@ -15,6 +15,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "classnames": "^2.2.6",
+    "gh-pages": "^4.0.0",
     "ios-inner-height": "^1.1.1",
     "popmotion": "^8.7.3",
     "react": "^17.0.0",
