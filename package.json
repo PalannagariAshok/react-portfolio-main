@@ -26,8 +26,8 @@
     "react-transition-group": "^4.4.1",
     
     "sweetalert2": "^11.4.10",
-    "three": "^0.125.0",
-    "use-dencrypt-effect": "1.0.1"
+    "three": "^0.125.0"
+   
   },
   "scripts": {
     "predeploy": "npm run build",
